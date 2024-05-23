@@ -39,7 +39,7 @@ body {
 
 #navbar .navbar-nav {
     flex-direction: row;
-    justify-content: end;
+    justify-content: start;
 }
 
 #navbar .navbar-nav li {
